@@ -50,9 +50,12 @@ You can rename or reorganise as you see fit.
 This file contains the full behaviour-based Agile Maturity Model with all 45–50 behaviours,
 each with L1–L5 behavioural descriptions.
 
-Example: Category,Statement,L1,L2,L3,L4,L5
-Flow & Delivery,Forecasting uses historical data,“Forecasts are guesses or commitments.”,“Some data used inconsistently.”,…
-Team Dynamics,Mistakes are discussed openly,…,…
+Example:
+
+| Category | Statement | L1 | L2 | L3 | L4 | L5 |
+|----------|-----------|----|----|----|----|-----|
+| Flow & Delivery | Forecasting uses historical data | Forecasts are guesses or commitments. | Some data used inconsistently. | … | … | … |
+| Team Dynamics | Mistakes are discussed openly | … | … | … | … | … |
 
 This file defines the **symptoms** that map to coaching interventions.
 
@@ -63,10 +66,12 @@ This file defines the **symptoms** that map to coaching interventions.
 This is a CSV containing how a single team scored each behaviour.
 
 Example:
-Statement,Score
-Forecasting uses historical data,1
-Work in progress is visible and actively managed,3
-The team works from a clear product vision…,2
+
+| Statement | Score |
+|-----------|-------|
+| Forecasting uses historical data | 1 |
+| Work in progress is visible and actively managed | 3 |
+| The team works from a clear product vision… | 2 |
 
 - **Score** must be an integer from **1–5**.
 - Only **1 or 2** generate coaching backlog items.

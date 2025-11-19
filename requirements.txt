@@ -1,0 +1,7 @@
+# Python dependencies for Agile Coaching Backlog Generator
+# Currently uses only stdlib - no external dependencies required
+
+# Future dependencies can be added here as needed
+# Example:
+# pandas>=2.0.0
+# click>=8.0.0
