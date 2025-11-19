@@ -4,6 +4,7 @@ The **Agile Coaching Backlog Generator** is a command-line tool that transforms
 Agile Maturity Assessment scores into a concrete, actionable **coaching backlog**.
 
 Instead of vague maturity heat-maps, this tool produces:
+
 - Coaching backlog items
 - Root cause analysis
 - Suggested coaching interventions
@@ -94,6 +95,7 @@ This produces a `backlog.csv` file containing:
 - Success Measures  
 
 This file can be imported directly into:
+
 - Jira  
 - Trello  
 - Clubhouse/Shortcut  
@@ -115,6 +117,7 @@ Working Agreement: “We never give single-date commitments.”
 Success Measures: Forecast accuracy improves; fewer surprises; stakeholder trust increases.
 
 Backlog items are intentionally:
+
 - Behavioural  
 - Measurable  
 - Coachable  
@@ -127,6 +130,7 @@ Backlog items are intentionally:
 Many Agile assessments produce insights but not **interventions**.
 
 This tool bridges that gap by:
+
 - Converting assessment findings into a backlog of coaching actions  
 - Providing structured, consistent improvement pathways  
 - Reducing ambiguity in team development  
@@ -155,6 +159,7 @@ Contributions and suggestions are welcome.
 Pull requests are welcome.
 
 To contribute:
+
 1. Fork the repo  
 2. Create a feature branch  
 3. Submit a PR with a clear explanation  
